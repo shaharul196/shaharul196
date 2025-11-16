@@ -10,7 +10,7 @@
 <a href="https://github.com/shaharul196">
     <img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white&border_radius=15" alt="GitHub">
   </a>
-<a href="www.linkedin.com/in/shaharul-islam-sazu">
+<a href="https://www.linkedin.com/in/shaharul-islam-sazu/">
     <img src="https://img.shields.io/badge/Linkedin-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15" alt="Linkedin">
   </a>
 <a href="https://www.facebook.com/share/1Cpvv5Bjhh/">
