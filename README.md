@@ -13,6 +13,9 @@
 <a href="www.linkedin.com/in/shaharul-islam-sazu">
     <img src="https://img.shields.io/badge/Linkedin-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15" alt="Linkedin">
   </a>
+<a href="https://www.facebook.com/share/1Cpvv5Bjhh/">
+    <img src="https://img.shields.io/badge/Facebook-2d2d2d?style=for-the-badge&logo=facebook&logoColor=white&border_radius=15" alt="Facebook">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
